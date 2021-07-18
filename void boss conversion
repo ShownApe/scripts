@@ -1,5 +1,7 @@
 --converted to fe/netless by ShownApe#1111
 --join my server if you arent already in it and want to join https://discord.gg/DcV3Qy3GwE
+--hats needed https://www.roblox.com/catalog/4793985219/CRATE, https://www.roblox.com/catalog/4793958453/ROCK, https://www.roblox.com/catalog/4753437569/Treadmobile, https://www.roblox.com/catalog/5803107414/Dark-Shoulder-Wing-Set
+--this isnt the most quality script ive made but i might update later on
 local TweenService = game:GetService("TweenService")
 
 
