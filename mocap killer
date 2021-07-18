@@ -1,4 +1,3 @@
---mocap sucks the amount of times they have failed to patch this and will keep failing, so enjoy this while it lasts before i make another game destroying exploit for it
 oldp = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
 game.Players.LocalPlayer.Character.Head:Destroy()
 wait(0.275)
